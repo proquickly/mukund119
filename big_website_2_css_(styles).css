@@ -1,4 +1,12 @@
-
+header{
+    text-align: center;
+}
 body {
     background-color: cornflowerblue;
 }
+.button {
+    float:center;
+    border: 1px solid red
+
+}
+
