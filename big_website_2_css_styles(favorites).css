@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    size: 30em;
+}
+body {
+    background-color: cornflowerblue;
+}
+a {
+ margin-left: auto;
+ margin-right: auto;
+border: 1px solid red;
+
+}
+
+
